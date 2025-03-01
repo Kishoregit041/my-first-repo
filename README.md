@@ -1,2 +1,2 @@
 # my-first-repo
-cretated to practice remote repository commands
+cretated to practice remote repository commands.
